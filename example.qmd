@@ -6,4 +6,8 @@ editor: visual
 
 ## \## Data Summary
 
-This is a DIFFERENT Data Summary added on main branch.
+<<<<<<< HEAD
+## Data Summary
+
+This section combines work from both main and testbranch.
+>>>>>>> testbranch
